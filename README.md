@@ -5,3 +5,15 @@ Basic Modal Helper for [Bootstrap 4](https://getbootstrap.com)
 ```
 <script src="https://cdn.jsdelivr.net/gh/sinanbozkus/remotemodal/remotemodal.js"></script>
 ```
+
+**Usage:**
+
+Open:
+```
+RemoteModal("url here: http://...");
+```
+
+Close:
+```
+DisposeRemoteModal();
+```
