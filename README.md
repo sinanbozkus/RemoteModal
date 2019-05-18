@@ -1,5 +1,5 @@
 # Remote Modal
-Basic Modal Helper For Bootstrap 4
+Basic Modal Helper for [Bootstrap 4](https://getbootstrap.com)
 
 **CDN:**
 ```
