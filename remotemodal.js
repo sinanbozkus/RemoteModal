@@ -5,6 +5,7 @@ var RemoteModal = function (url, options) {
     }
 
     $('body #remoteModal').html("");
+    $('body #remoteModal').data('bs.modal', null);
 
     $('body #remoteModal').load(url, function () {
 
